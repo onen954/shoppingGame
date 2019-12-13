@@ -1,0 +1,14 @@
+.headSection {
+  text-align: center;
+  background-color: greenyellow;
+  height: 50px;
+}
+
+.balance {
+  background: greenyellow;
+  height: 100px;
+}
+
+.item {
+  background: lightcyan;
+}
